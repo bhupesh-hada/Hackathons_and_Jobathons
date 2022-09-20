@@ -8,29 +8,28 @@ The objective is to help the advertising agency to assess the scope of revenue t
 
 *id*   ->            Unique id for each row
 
-ratings          Metric out of 1 which represents how much of the targeted demographic watched the advertisement
+*ratings*->          Metric out of 1 which represents how much of the targeted demographic watched the advertisement
 
-airlocation      Country of origin
+*airlocation*->      Country of origin
 
-airtime          Time when the advertisement was aired
+*airtime*->          Time when the advertisement was aired
 
-average_runtime  Minutes per week the advertisement was aired
-(minutes_per_week)
+*average_runtime(minutes_per_week)*->  Minutes per week the advertisement was aired
 
-targeted_sex     Sex that was mainly targeted for the advertisement
+*targeted_sex*->     Sex that was mainly targeted for the advertisement
 
-genre            The type of advertisement
+*genre*->            The type of advertisement
 
-industry         The industry to which the product belonged
+*industry*->         The industry to which the product belonged
 
-economic_status  The economic health during which the show aired
+*economic_status*->  The economic health during which the show aired
 
-relationship_    The relationship status of the most responsive customers to the advertisement
-status
+*relationship_status*->    The relationship status of the most responsive customers to the advertisement
 
-expensive        A general measure of how expensive the product or service is that the ad is discussing.
 
-money_back_      Whether or not the product offers a refund in the case of customer dissatisfaction.
-guarantee
+*expensive* ->       A general measure of how expensive the product or service is that the ad is discussing.
 
-netgain [target] Whether the ad will incur a gain or loss when sold
+*money_back_guarantee*->      Whether or not the product offers a refund in the case of customer dissatisfaction.
+
+
+*netgain[target]*-> Whether the ad will incur a gain or loss when sold
